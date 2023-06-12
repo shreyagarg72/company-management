@@ -44,8 +44,8 @@
     <header>
         <div class="container header-section flex">
             <div class="header-left">
-                <h1>Design Confidently</h1>
-                <p>UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.</p>
+                <h1>TRACK YOUR APPLICATION NOW</h1>
+                <p>Project Tracking is a key activity that should be instilled from the beginning of every project in order to have the best chance of success. Everyone from senior management to team members becomes aligned with project goals and updates. Let us see what exactly project tracking is and how do you do it?</p>
                 <a href="#" class="primary-button get-started-btn">Get Started</a>
             </div>
             <div class="header-right">
@@ -58,7 +58,7 @@
 
     <section class="companies-section">
         <div class="container">
-            <div class="small-bold-text companies-header">The world’s best companies rely on UsabilityHub to make better design decisions.</div>
+            <div class="small-bold-text companies-header">The foundation for effective project management tracking and status reporting is laid during project planning. </div>
             <div class="logos flex">
                 <img class="logo" src="/company-manage/resources/images/asset3.png" alt="">
                 <img class="logo" src="/company-manage/resources/images/asset4.jpeg" alt="">
@@ -76,26 +76,26 @@
     <section class="features-section">
         <div class="container">
             <div class="features-header">
-                <h2 class="features-heading-text">Your user research Swiss Army knife</h2>
-                <a href="#" class="secondary-button">See all features <i class="fa-solid fa-right-long"></i></a>
+                <h2 class="features-heading-text">Real Time Information</h2>
+                <a href="#" class="secondary-button">stay up to date and get the most accurate information available.  <i class="fa-solid fa-right-long"></i></a>
             </div>
             <div class="features-area flex">
                 <div class="features-card flex">
                     <img src="/company-manage/resources/images/asset11.png" alt="">
                     <h3>Card Sorting</h3>
-                    <p>Discover how people group and label information.</p>
-                    <a href="#" class="secondary-button">Learn More <i class="fa-solid fa-right-long"></i></a>
+                    <p>Problem Identifiers</p>
+                    <a href="#" class="secondary-button">With project tracking, there is no place for problems or issues to hide.  <i class="fa-solid fa-right-long"></i></a>
                 </div>
                 <div class="features-card flex">
                     <img src="/company-manage/resources/images/asset13.png" alt="">
-                    <h3>Prototype tests</h3>
-                    <p>Discover how people navigate your Figma prototypes.</p>
+                    <h3> Team Motivation</h3>
+                    <p>project tracking keeps everyone in the loop and on the same page..</p>
                     <a href="#" class="secondary-button">Learn more <i class="fa-solid fa-right-long"></i></a>
                 </div>
                 <div class="features-card flex">
                     <img src="/company-manage/resources/images/asset14.png" alt="">
-                    <h3>First click tests</h3>
-                    <p>Test interaction with first click and navigation tests.</p>
+                    <h3> Easy and Accurate Reporting</h3>
+                    <p>Using one system in order to manage and track projects makes reporting quick and simple. </p>
                     <a href="#" class="secondary-button">Learn more <i class="fa-solid fa-right-long"></i></a>
                 </div>
                 <div class="features-card flex">
